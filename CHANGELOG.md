@@ -1,5 +1,20 @@
 # Changelog
 
+## [2.0.3](https://github.com/TheRakeshPurohit/buttercms-js/compare/v2.0.2...v2.0.3) (2024-06-20)
+
+
+### Bug Fixes
+
+* added Accept Encoding gzip ([fcb756c](https://github.com/TheRakeshPurohit/buttercms-js/commit/fcb756c68c657b0b3275ca2172666bc6980fb0d9))
+* bump @babel/traverse from 7.21.4 to 7.23.2 ([8e3fcd5](https://github.com/TheRakeshPurohit/buttercms-js/commit/8e3fcd5fba9e5fa0abb1cc856fdff59d3578e71e))
+* change to gzip ([69f386e](https://github.com/TheRakeshPurohit/buttercms-js/commit/69f386e9073a0c369ea754e3d1017b93b5881ab1))
+* Detect server side and client side js when using library ([32cdcde](https://github.com/TheRakeshPurohit/buttercms-js/commit/32cdcde338e018c9b674071dce779fd555cc3b0b))
+* enhanced garbage collection on fetch aborts & error messaging ([14e97e3](https://github.com/TheRakeshPurohit/buttercms-js/commit/14e97e33783f85f819204d0beb7e880b556f1e2d))
+* issue calling axios.create undefined ([0cc86c9](https://github.com/TheRakeshPurohit/buttercms-js/commit/0cc86c9adbb313c99d07d57ea2562dd9d82444bd))
+* Update CONTRIBUTING.md ([65a9432](https://github.com/TheRakeshPurohit/buttercms-js/commit/65a9432a2d2c2ca6f00cee6961f0226f3a2789bd))
+* Update package.json ([2e6ff8b](https://github.com/TheRakeshPurohit/buttercms-js/commit/2e6ff8bc632b3d1f8d9b31b1379dad75db428ec4))
+* update readme re: support and use of native fetch ([b193bca](https://github.com/TheRakeshPurohit/buttercms-js/commit/b193bcad47b7db77f86290bf7976be4191ec87c3))
+
 ## [2.0.3](https://github.com/ButterCMS/buttercms-js/compare/v2.0.2...v2.0.3) (2024-06-14)
 
 
